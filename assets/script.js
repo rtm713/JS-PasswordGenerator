@@ -81,9 +81,7 @@ function generatePassword() {
       passLen = passLen - 1;
       charTypeCheck++;
     }
-  }
-
-
+  };
 
   for (i=0; i<passLen; i++) {
     password = password + passPool[Math.floor(Math.random() * passPool.length)]

@@ -1,5 +1,8 @@
 # JS-PasswordGenerator
 
+## Description
+A simple password generator with customizable criteria including lowercase, uppercase, special characters and numbers. The user must choose the password length (between 8-128) and will then be prompted to choose whatever criteria needed for their password (must choose at least one). Once all is completed, the random password will automatically generate. 
+
 ## User Story
 ```
 AS AN employee with access to sensitive data
@@ -27,10 +30,11 @@ THEN the password is either displayed in an alert or written to the page
 ```
 
 ## Project URL
+https://rtm713.github.io/JS-PasswordGenerator/
 
 
 ## Project Screenshot
-
+![](/assets/Images/Screenshot%202023-04-06%20202457.png)
 
 ### Sources/References
 
